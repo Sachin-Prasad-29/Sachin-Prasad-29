@@ -1,7 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/58ed3f6ce58c6291cf3755b8/1578430540544-M8B8JK4WQG23R9O003M3/image-asset.gif?format=1000w)](https://github.com/Sachin-Prasad-29)
 <h1 align="center">Hi 👋, I'm Sachin Kumar Prasad 😮‍💨</h1>
 <h3 align="center">A passionate Programmer and Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.technig.com/wp-content/uploads/2016/10/Site24x7-Application-Performance-Management-Technig.gif">
+<img align="right" alt="Coding" width="350" src="https://i0.wp.com/www.technig.com/wp-content/uploads/2016/10/Site24x7-Application-Performance-Management-Technig.gif">
 
 <p align="left"> <a href="https://twitter.com/sachin_prasad__" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge" alt="sachin_prasad__" /></a> </p>
 
