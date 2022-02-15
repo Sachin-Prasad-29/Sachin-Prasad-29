@@ -1,11 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif)](https://github.com/Sachin-Prasad-29)
 <h1 align="center">Hi 👋, I'm Sachin Kumar Prasad 😮‍💨</h1>
 <h3 align="center">A passionate Programmer and Web developer</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-prasad-29&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-prasad-29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-prasad-29" alt="sachin-prasad-29" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <a href="https://twitter.com/sachin_prasad__" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge" alt="sachin_prasad__" /></a> </p>
 
@@ -34,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-prasad-29&show_icons=true&locale=en" alt="sachin-prasad-29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-prasad-29&" alt="sachin-prasad-29" /></p>
+
