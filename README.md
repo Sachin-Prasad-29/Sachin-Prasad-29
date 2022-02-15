@@ -1,7 +1,7 @@
 [![MasterHead](https://www.mygo.ge/uploads/blog/1584023795.jpg)](https://github.com/Sachin-Prasad-29)
 <h1 align="center">Hi 👋, I'm Sachin Kumar Prasad 😮‍💨</h1>
 <h3 align="center">A passionate Programmer and Web developer</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.technig.com/wp-content/uploads/2016/10/Site24x7-Application-Performance-Management-Technig.gif">
 
 <p align="left"> <a href="https://twitter.com/sachin_prasad__" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge" alt="sachin_prasad__" /></a> </p>
 
