@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif)](https://github.com/Sachin-Prasad-29)
+[![MasterHead](https://miro.medium.com/max/1400/1*Ag-ISNFsFGZIQaE1Y_s4Wg.jpeg)](https://github.com/Sachin-Prasad-29)
 <h1 align="center">Hi 👋, I'm Sachin Kumar Prasad 😮‍💨</h1>
 <h3 align="center">A passionate Programmer and Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
