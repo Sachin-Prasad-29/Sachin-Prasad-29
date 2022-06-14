@@ -1,6 +1,8 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/58ed3f6ce58c6291cf3755b8/1578430540544-M8B8JK4WQG23R9O003M3/image-asset.gif?format=1000w)](https://github.com/Sachin-Prasad-29)
 <h3 align="center">Hi there 👋, I'm Sachin 😮‍💨</h1>
-<h5 align="center">----A passionate Programmer and Web developer----</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student;A+Programmer;A+Full+Stack+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 
 <p align="center"> <a href="https://twitter.com/sachin_prasad__" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge" alt="sachin_prasad__" /></a> </p>
@@ -32,10 +34,7 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-prasad-29&theme=algolia" alt="7oSkaaa" /></p>
 <br>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/sachin-prasad-29"><img alt="Sachin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachin-prasad-29&custom_title=Sachin's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+
 
 
 
