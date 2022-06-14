@@ -14,7 +14,7 @@
 - 📫 How to reach me **skpkorba9009@gmail.com**
 
 - ⚡ Fun fact **I still need to learn aLot**
-
+<div text-align: center;>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sachin_prasad__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachin_prasad__" height="30" width="40" /></a>
@@ -31,3 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-prasad-29&" alt="sachin-prasad-29" /></p>
 
+</div>
