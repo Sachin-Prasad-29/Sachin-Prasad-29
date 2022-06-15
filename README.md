@@ -1,22 +1,25 @@
-<img align= "center" src="best.gif" width = "900" >
-<h3 align="center">Hi there 👋, I'm Sachin 😮‍💨</h1>
+
+<img align= "center" src="best.gif" width = "950" >
+<h3 align="center">Hi there 👋, I'm Sachin 😄🤗</h3>
+<h4 align="center" style="color:blue;">Welcome to the Github Profile😋</h4>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student;A+Programmer;A+Full+Stack+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Programmer+🧑‍💻;A+Full+Stack+Developer+🪟;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things+❤️&center=true&width=500&height=50"></a>
 </p>
 
 
 <p align="center"> <a href="https://twitter.com/sachin_prasad__" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge" alt="sachin_prasad__" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://i0.wp.com/www.technig.com/wp-content/uploads/2016/10/Site24x7-Application-Performance-Management-Technig.gif">
-- 🔭 I’m currently working on **my Problem Solving Skills**
+<img align="right" alt="Coding" width="250" src="https://i0.wp.com/www.technig.com/wp-content/uploads/2016/10/Site24x7-Application-Performance-Management-Technig.gif">
 
-- 🌱 I’m currently learning **DSA , Basic Web Development**
+🔭 I’m currently working on **my Problem Solving Skills**
 
-- 💬 Ask me about **Java , DSA , dev**
+🌱 I’m currently learning **DSA , Basic Web Development**
 
-- 📫 How to reach me **skpkorba9009@gmail.com**
+💬 Ask me about **Java , DSA , dev**
 
-- ⚡ Fun fact **I still need to learn aLot**
+📫 How to reach me **skpkorba9009@gmail.com**
+
+⚡ Fun fact **I still need to learn aLot**
 <br />
 <br />
 <hr />
@@ -34,7 +37,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-prasad-29&theme=algolia" alt="7oSkaaa" /></p>
 <br>
-
 
 
 
