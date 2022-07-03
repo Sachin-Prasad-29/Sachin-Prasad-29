@@ -1,5 +1,5 @@
 
-<img align= "center" src="moniter-gif.gif" width = "950" >
+<img align= "center" src="ezgif.com-gif-maker (2).gif" width = "950" >
 <h3 align="center">Hi there 👋, I'm Sachin</h3>
 <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
 <p align="center">
