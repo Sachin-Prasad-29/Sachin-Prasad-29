@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi there 👋, I'm Sachin</h3>
+<h2 align="center">Hi there 👋, I'm Sachin</h2>
 <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Passionate+Programmer+🧑‍💻;A+Full+Stack+Developer+🪟;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things+❤️&center=true&width=500&height=50"></a>
