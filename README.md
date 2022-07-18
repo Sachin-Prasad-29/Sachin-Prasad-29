@@ -10,15 +10,13 @@
 
 <img align="right" alt="Coding" width="250" src="https://i0.wp.com/www.technig.com/wp-content/uploads/2016/10/Site24x7-Application-Performance-Management-Technig.gif">
 
-🔭 I’m currently working on **my Problem Solving Skills**
+🔭 I’m currently working at **Tata Consultancy Services as Assistant System Engineer**
 
-🌱 I’m currently learning **DSA , Basic Web Development**
-
-💬 Ask me about **Java , DSA , dev**
+🌱 I’m currently learning **Web deveopment using MEVN Stack **
 
 📫 How to reach me **skpkorba9009@gmail.com**
 
-⚡ Fun fact **I still need to learn aLot**
+⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks. A part from that I also learing web development and currtly working on my portfilo website.
 <br />
 <br />
 <hr />
