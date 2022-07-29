@@ -17,7 +17,7 @@
 
 📫 How to reach me **skpkorba9009@gmail.com**
 
-⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks. A part from that I also learing web development and currently working on my portfilo website.
+⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks. A part from that I also learning web development and currently working on my portfolio website.
 <br />
 <br />
 <hr />
