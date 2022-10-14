@@ -20,7 +20,9 @@
 
 📫 How to reach me **skpkorba9009@gmail.com**
 
-⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks. A part from that I also learning web development and currently working on my portfolio website.
+⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks.
+
+🧑‍💻 want to Know more about me ? <a href="https://sachin-prasad.netlify.app/"><b>my Portfolio</b></a>
 <br />
 <br />
 <hr />
