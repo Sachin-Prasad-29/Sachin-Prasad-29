@@ -22,7 +22,7 @@
 
 ⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks.
 
-🧑‍💻 want to Know more about me ? <a href="https://sachin-prasad.netlify.app/"><b>my Portfolio</b></a>
+🧑‍💻 want to Know more about me ? <a href="https://sachin-prasad.netlify.app/" target="_blank"><b>my Portfolio</b></a>
 <br />
 <br />
 <hr />
