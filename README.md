@@ -1,4 +1,4 @@
-<div><img src="https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width='200px' ></img><img src="https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif"  width='200px'  ></img></div>
+<div><img src="gaming-animate (1).svg" width='500px' height='300px' ></img><img src="gaming-animate.svg"  width='500px'  height='300px' ></img></div>
 <h1  align="center">Hi there 👋, I'm Sachin</h1>
 <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
 
