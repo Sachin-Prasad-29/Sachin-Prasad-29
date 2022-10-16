@@ -1,4 +1,4 @@
-<div><img src="https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif"  ></img></div>
+<div><img src="https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width='200px' ></img><img src="https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif"  width='200px'  ></img></div>
 <h1  align="center">Hi there 👋, I'm Sachin</h1>
 <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
 
@@ -12,7 +12,7 @@
 <p align="center"> <a href="https://twitter.com/sachin_prasad__" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge" alt="sachin_prasad__" /></a> </p>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Sachin-Prasad-29" width=120px alt="Sachin-Prasad-29" /> </div>
 
-<img align="right" alt="Coding" width="250" src="https://i0.wp.com/www.technig.com/wp-content/uploads/2016/10/Site24x7-Application-Performance-Management-Technig.gif">
+<img align="right" alt="Coding" width="400" src="javascript-frameworks-animate (1).svg">
 
 🔭 I’m currently working at **Tata Consultancy Services as Assistant System Engineer**
 
