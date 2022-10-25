@@ -18,7 +18,7 @@
 
 🌱 I’m currently learning **Web deveopment using MEVN Stack **
 
-📫 How to reach me **skpkorba9009@gmail.com**
+📫 How to reach me **sachin.kprasad09@gmail.com**
 
 ⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks.
 
