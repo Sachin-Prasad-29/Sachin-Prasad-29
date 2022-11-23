@@ -14,9 +14,9 @@
 
 <img align="right" alt="Coding" width="400" src="javascript-frameworks-animate (1).svg">
 
-🔭 I’m currently working at **Tata Consultancy Services as Assistant System Engineer**
+🔭 I’m currently working at **xlScout as Software Product Developer - 1**
 
-🌱 I’m currently learning **Web deveopment using MEVN Stack **
+🌱 I’m currently looking forward to learn **Next.js and React Native**
 
 📫 How to reach me **sachin.kprasad09@gmail.com**
 
