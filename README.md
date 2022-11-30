@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="javascript-frameworks-animate (1).svg">
 
-🔭 I’m currently working at **xlScout as Software Product Developer - 1**
+🔭 I’m currently working at **xlscout as Software Product Developer - 1**
 
 🌱 I’m currently looking forward to learn **Next.js and React Native**
 
