@@ -1,74 +1,106 @@
+<h1 align="center">Hi there 👋, I'm Sachin</h1>
+<h3 align="center">Software Product Developer | Full Stack Enthusiast 🚀</h3>
 
-<h1  align="center">Hi there 👋, I'm Sachin</h1>
-<h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=A+Computer+Science+Student+💻;A+Passionate+Programmer+🧑%E2%80%8D💻;A+Full+Stack+Developer+🪟;DS+%7C+Algorithms+%7C+OOPs;Active+learner+❤️;Vuejs+%7C+Reactjs+%7C+Nodejs+%7C+ExpressJs" alt="Typing SVG" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sachin-Prasad-29&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
-
-<p align="center" >
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Passionate+Programmer+🧑‍💻;A+Full+Stack+Developer+🪟;DS%20|%20Algorithms%20|%20OOPs%20;Active%20learner+❤️;Vuejs%20|%20Reactjs%20|%20Nodejs%20|%20ExpessJs%20|%20MongoDB🍃%20&center=true&width=550&height=50"></a>
+<p align="center">
+  <a href="https://twitter.com/sachin_prasad__" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sachin-prasad-11091516a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/sachin.prasad.12327" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/__.sachin.__._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://sachin-prasad.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
+---
 
-<p align="center"> <a href="https://twitter.com/sachin_prasad__" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_prasad__?logo=twitter&style=for-the-badge" alt="sachin_prasad__" /></a> </p>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Sachin-Prasad-29" width=120px alt="Sachin-Prasad-29" /> </div>
+### 👨🏻‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="javascript-frameworks-animate (1).svg">
 
-🔭 I’m currently working at **xlscout as Software Product Developer - 1**
+- 🔭 I’m currently working at **xlscout as Software Product Developer - 1**
+- 🌱 I’m currently looking forward to learn **Next.js and React Native**
+- ⚡ I am continuously improving my problem-solving skills on **LeetCode** and **GeeksforGeeks**
+- 📫 Connect with me: **sachin.kprasad09@gmail.com**
+- 🧑‍💻 Know more about me: [**My Portfolio**](https://sachin-prasad.netlify.app/)
 
-🌱 I’m currently looking forward to learn **Next.js and React Native**
+<br/>
 
-📫 How to reach me **sachin.kprasad09@gmail.com**
+### 🏆 Coding Profiles
 
-⚡ Currently I am trying to improve my problem solving skills by solving different Data structures  and Algorithms Question in different Platform like Leetcodea and GeeksforGeeks.
+<a href="https://leetcode.com/Sachin_Prasad/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/skpkorba9009" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
 
-🧑‍💻 want to Know more about me ? <a href="https://sachin-prasad.netlify.app/" target="_blank"><b>my Portfolio</b></a>
-<br />
-<br />
-<hr />
+<br/><br/>
 
-<h3 align="center">Connect with me:</h3>
+### 🛠️ Languages and Tools
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sachin.prasad.12327)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__.sachin.__._/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-prasad-11091516a/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/sachin_prasad__) 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Sachin_Prasad/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/skpkorba9009)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin-Prasad-29)
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) 
 
-<br />
-<hr />
-<h3 align="center">Language and Tools:</h3>
+**Backend:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) 
+![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
-![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
-<br />
-<hr />
-<img height="150px" width="1000px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prasad-29&layout=compact&hide_border=false&theme=algolia&bg_color=#10217B&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-prasad-29&theme=algolia" alt="7oSkaaa" /></p>
-<br>
- <p>&#169;created by @sachin</p>
+**Other Tools:**  
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Prasad-29&layout=compact&hide_border=true&theme=vue-dark&bg_color=1c2331&langs_count=6&title_color=2196F3&icon_color=2196F3" alt="Top Languages" align="left" height="175px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Prasad-29&theme=vue-dark&hide_border=true&background=1c2331&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="Streak Stats" align="left" height="175px"/>
+</div>
+
+<br clear="both"/>
+
+---
+
+<p align="center">
+  <small>&#169; Created by @sachin</small>
+</p>
