@@ -10,7 +10,7 @@
 Full-stack developer with **5+ years** of experience turning ideas into real products. Right now I'm deep-diving into **AI Engineering** — building smarter, more capable apps beyond just the usual stack.
 
 ### 💻 What I Do
-`JavaScript` `TypeScript` `React` `Vue` `Node.js` `NestJS` `FastAPI` `Golang` `Elasticsearch` `MongoDB` `SQL`
+`JavaScript` `Python` `Gen Ai` `Agentic Ai` `TypeScript` `React` `Vue` `Node.js` `NestJS` `FastAPI` `Golang` `Elasticsearch` `MongoDB` `SQL`
 
 ### 🌱 Currently Learning
 AI Engineering • LLMs & Agents • Next.js • React Native
